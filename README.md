@@ -1,2 +1,12 @@
-# Monthly_Expense_Tracker
-A Python-based Expense Tracker to Record, Categorize and summarize daily expenses...
+# Monthly Expense Tracker
+
+A simple Python application to record and manage daily expenses.
+
+## Features
+- Add expenses
+- View total expenses
+- Categorize expenses
+- Monthly summary
+
+## Language
+Python
