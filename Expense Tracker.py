@@ -30,13 +30,13 @@ print("Savings =", savings)
 if savings > 0:
     print("Good! You saved money this month.")
     if savings >= goal:
-        print("🎉 Congrats! You met your savings goal.")
+        print(" Congrats! You met your savings goal.")
     else:
         print("Keep pushing! You didn’t reach your goal.")
 elif savings == 0:
     print("No savings this month.")
 else:
-    print("⚠️ Warning! You spent more than you earned.")
+    print(" Warning! You spent more than you earned.")
 
 print("\nProgram completed successfully!")
 input("Press Enter to exit...")
